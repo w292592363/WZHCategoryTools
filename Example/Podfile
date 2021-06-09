@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WZHCategoryTools_Example' do
+  pod 'WZHCategoryTools', :path => '../'
+
+  target 'WZHCategoryTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
