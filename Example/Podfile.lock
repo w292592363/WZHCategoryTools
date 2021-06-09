@@ -1,0 +1,16 @@
+PODS:
+  - WZHCategoryTools (0.1.0)
+
+DEPENDENCIES:
+  - WZHCategoryTools (from `../`)
+
+EXTERNAL SOURCES:
+  WZHCategoryTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZHCategoryTools: 6e00dbf48a66c3b4f94d1acf772588b0fb73ae55
+
+PODFILE CHECKSUM: e0ef21351af2fd7e02634d5939df5e809f79f7a2
+
+COCOAPODS: 1.10.0
